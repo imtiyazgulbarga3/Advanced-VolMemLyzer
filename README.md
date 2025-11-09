@@ -379,22 +379,6 @@ NOTE: Future updates should include support for more third party plugins and bet
 ### License  
 This package is using [**Volatility**](https://github.com/volatilityfoundation/volatility) and following their LICENSE. 
 
-## Copyright (c) 2020 and Citation
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (Advanced-VolMemLyzer), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-For citation Advanced-VolMemLyzer V2.0.0, in your works and also understanding it completely, you can find below published papers:
-
-
-
-For citation Advanced-VolMemLyzer V1.0.0, in your works and also understanding it completely, you can find below published papers:
-
-```
-
 
 
 
