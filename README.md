@@ -4,6 +4,9 @@
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
 
+Obfuscated malware is malware that hides to avoid detection and extermination. The obfuscated malware dataset is designed to test obfuscated malware detection methods through memory. The dataset was created to represent as close to a real-world situation as possible using malware that is prevalent in the real world. Made up of Spyware, Ransomware and Trojan Horse malware, it provides a balanced dataset that can be used to test obfuscated malware detection systems.
+The dataset is balanced with it being made up by 50% malicious memory dumps and 50% benign memory dumps. The break down for malware families is shown in the table below. The dataset contains a total of 58,596 records with 29,298 benign and 29,298 malicious.The dataset is balanced with it being made up by 50% malicious memory dumps and 50% benign memory dumps.
+
 Memory forensics is essential in cybersecurity and digital forensics, especially for fighting advanced threats and malware. In this dynamic environment, memory analysis tools and methods must be efficient. By prioritising the prominent features in a memory, investigators can speed up their analysis.
 The **Advanced-VolMemLyzer** (Volatile Memory Analyzer) can extract over **250 features** from memory snapshots, speeding up analysis and enabling deeper explorations. It serves as a catalyst for memory forensics research and innovation.
 
